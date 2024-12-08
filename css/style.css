@@ -93,3 +93,50 @@ a:hover {
 .footer_section p a {
   color: #D3FE00; /* Accent link */
 }
+
+/* Slider Section */
+.slider_section .detail-box h1 {
+  color: #ffffff; /* White text */
+}
+
+.slider_section .detail-box p {
+  color: #ffffff; /* White text */
+}
+
+.slider_section .btn-box .btn1 {
+  background-color: #D3FE00; /* Accent background */
+  color: #000000; /* Black text */
+}
+
+.slider_section .btn-box .btn1:hover {
+  background-color: #ffffff; /* Hover to white */
+  color: #000000; /* Black text */
+}
+
+/* Service Section */
+.service_section .box {
+  background-color: #1a1a1a; /* Dark gray */
+}
+
+.service_section .box h5 {
+  color: #D3FE00; /* Accent color */
+}
+
+.service_section .box p {
+  color: #ffffff; /* White text */
+}
+
+/* About Section */
+.about_section .detail-box p {
+  color: #ffffff; /* White text */
+}
+
+.about_section .detail-box a {
+  background-color: #D3FE00; /* Accent background */
+  color: #000000; /* Black text */
+}
+
+.about_section .detail-box a:hover {
+  background-color: #ffffff; /* Hover to white */
+  color: #000000; /* Black text */
+}
